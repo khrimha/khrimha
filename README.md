@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khrimha
+- 👋 Hi, I’m @Jedidiah
 - 👀 I’m interested in learning programming and networking
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on everything available to work on.
